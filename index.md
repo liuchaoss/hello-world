@@ -1,6 +1,8 @@
----
-Chao Liu | Zhejiang University | Publications                  
----
+## Chao Liu | Zhejiang University | Publications                  
+
+## About Chao
+I am a Postdoc at [Zhejiang University](http://www.zju.edu.cn/) with advisors Prof. [Shanping Li](http://person.zju.edu.cn/en/0087125) and Dr. [Xin Xia](https://xin-xia.github.io/). My current research is to improve software productivity by investigating software development mechanism, designing deep-learning-based/search-based models to understand natural/programming language, building automated tools for real-world applications.
+
 ## Experience and Education
 * 2019.01-Present, PostDoc, Zhejiang University, China
 * 2018.12-2019.01, Visiting Scholar, Baidu Inc., China
