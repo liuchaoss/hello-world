@@ -1,5 +1,5 @@
 ## Chao Liu's Home Page              
-* Email: liuchaoo@zju.edu.cn
+* Email: [liuchaoo@zju.edu.cn](liuchaoo@zju.edu.cn)
 * [Direct Link](https://scholar.google.com/citations?user=scet0mIAAAAJ&hl=en) to Google Scholar
 
 ## About Chao
