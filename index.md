@@ -13,7 +13,3 @@
 * 2014.09-2018.12, PhD, Chongqing University, China
 * 2011.09-2018.06, MSc, Chongqing University, China
 * 2007.09-2011.06, BSc, Chongqing University, China
-
-<span id="busuanzi_value_site_pv"></span> 
-<span id="busuanzi_value_site_uv"></span> 
-<span id="busuanzi_value_page_pv"></span>
