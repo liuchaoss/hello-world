@@ -1,6 +1,7 @@
 ## Chao Liu's Home Page              
 * Email: [liuchaoo@zju.edu.cn](mailto:liuchaoo@zju.edu.cn)
 * [Direct Link](https://scholar.google.com/citations?user=scet0mIAAAAJ&hl=en) to Google Scholar
+* [Direct Link](https://github.com/liuchaoss) to Open-Source Projects
 
 ## About Chao
 <img src="http://liuchaoss.github.io/liuchao.jpg" height="150" align="right">
