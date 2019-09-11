@@ -14,7 +14,6 @@
 * 2011.09-2018.06, MSc, Chongqing University, China
 * 2007.09-2011.06, BSc, Chongqing University, China
 
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_value_site_pv"></span> 
 <span id="busuanzi_value_site_uv"></span> 
 <span id="busuanzi_value_page_pv"></span>
